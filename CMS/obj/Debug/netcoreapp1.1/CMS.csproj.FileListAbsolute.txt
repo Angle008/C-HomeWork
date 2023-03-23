@@ -1,0 +1,10 @@
+F:\Practice C#\CMS\CMS\bin\Debug\netcoreapp1.1\CMS.deps.json
+F:\Practice C#\CMS\CMS\bin\Debug\netcoreapp1.1\CMS.runtimeconfig.json
+F:\Practice C#\CMS\CMS\bin\Debug\netcoreapp1.1\CMS.runtimeconfig.dev.json
+F:\Practice C#\CMS\CMS\bin\Debug\netcoreapp1.1\CMS.dll
+F:\Practice C#\CMS\CMS\bin\Debug\netcoreapp1.1\CMS.pdb
+F:\Practice C#\CMS\CMS\obj\Debug\netcoreapp1.1\CMS.csprojAssemblyReference.cache
+F:\Practice C#\CMS\CMS\obj\Debug\netcoreapp1.1\CMS.csproj.CoreCompileInputs.cache
+F:\Practice C#\CMS\CMS\obj\Debug\netcoreapp1.1\CMS.AssemblyInfo.cs
+F:\Practice C#\CMS\CMS\obj\Debug\netcoreapp1.1\CMS.dll
+F:\Practice C#\CMS\CMS\obj\Debug\netcoreapp1.1\CMS.pdb
